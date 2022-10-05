@@ -71,7 +71,7 @@ const Service = () => {
                   <tr>
                     <th>No.</th>
                     <th>Nama</th>
-                    <th>Durasi / Bulan</th>
+                    <th>Durasi</th>
                     <th>Diskon</th>
                     <th>Harga</th>
                     <th>Aksi</th>
